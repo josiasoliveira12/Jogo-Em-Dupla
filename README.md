@@ -2,4 +2,4 @@
 
 Tiago - cenario, portal
 
-Josias - jogadores
+Josias - jogador 1, jogador 2
