@@ -26,7 +26,7 @@ func _physics_process(delta: float) -> void:
 
 	move_and_slide()
 
-	if position.y > 500:
+	if position.y > 700:
 		position.y = 0
 
 	if !is_on_floor():
